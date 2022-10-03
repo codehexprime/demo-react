@@ -6,4 +6,4 @@ gaa
 
 gcmsg 'Commit Message'
 
-git push origin master
+git push origin main
